@@ -18,9 +18,9 @@
 
 #pragma warning(push)
 #pragma warning(disable: 4512 4244 4100 693)
-#include "avisynth.h"
+#include <avisynth/avisynth.h>
 #pragma warning(pop)
-#include "rpu_parser.h"
+#include <libdovi/rpu_parser.h>
 
 
 class DoViProcessor {

@@ -1,4 +1,4 @@
-#include "avisynth.h"
+#include <avisynth/avisynth.h>
 #include "cube.h"
 #include "lut.h"
 #include "VSHelper.h"
